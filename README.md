@@ -21,4 +21,4 @@ La aplicación utiliza el patrón Post/Redirect/Get (PRG) para evitar el reenví
 5. Acceder desde el navegador a: http://localhost:8080/gestion-tareas/tareas
 
 ## Estudiante
-Andres Felipe Jimnenez Ramirez
+Andres Felipe Jimenez Ramirez
